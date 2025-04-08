@@ -17,7 +17,7 @@
   text-align: center;
 }
 
-/* Grid Layout for News Cards */
+/* Grid Layout for News Cards */  
 .news-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
